@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Web",
+    "\\src\\Web\\Controllers",
+    "\\src\\Web\\Views",
+    "\\src\\Web\\Views\\Color",
+    "\\src\\Web\\Views\\Home",
+    "\\src\\Web\\Views\\Shared",
+    "\\src\\Web\\wwwroot",
+    "\\tests",
+    "\\tests\\UnitTests"
+  ],
+  "SelectedNode": "\\Red.sln",
+  "PreviewInSolutionExplorer": false
+}
